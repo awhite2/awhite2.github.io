@@ -1,8 +1,10 @@
-title: Awhite2.GitHub.io
-description: 
+title: Abra White | Portfolio
+description: Some examples of past work acrosss languages, etc.
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
+
+github-username: awhite2
 
 gems:
   - jekyll-mentions
